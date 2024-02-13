@@ -1,0 +1,30 @@
+{
+  "name" : "boostpfrnameexamples",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "1f619be01b436b796dab797dd1e1721c5676f8ac",
+  "dependencies" : [ {
+    "name" : "boost-config",
+    "version>=" : "1.84.0"
+  }, {
+    "name" : "boost-pfr",
+    "version>=" : "1.84.0"
+  }, {
+    "name" : "boost-uninstall",
+    "version>=" : "1.84.0"
+  }, {
+    "name" : "boost-vcpkg-helpers",
+    "version>=" : "1.84.0"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2022-02-06#1"
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2023-05-04"
+  }, {
+    "name" : "fmt",
+    "version>=" : "10.2.1"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.3"
+  } ]
+}
